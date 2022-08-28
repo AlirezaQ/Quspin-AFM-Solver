@@ -1,0 +1,8 @@
+data/bg_curr_data/-23.0m_a.npy filter=lfs diff=lfs merge=lfs -text
+data/bg_curr_data/-23.0m_b.npy filter=lfs diff=lfs merge=lfs -text
+data/bg_curr_data/-24.0m_a.npy filter=lfs diff=lfs merge=lfs -text
+data/bg_curr_data/-24.0m_b.npy filter=lfs diff=lfs merge=lfs -text
+data/bg_curr_data/-25.0m_a.npy filter=lfs diff=lfs merge=lfs -text
+data/bg_curr_data/-25.0m_b.npy filter=lfs diff=lfs merge=lfs -text
+data/bg_curr_data/0m_a.npy filter=lfs diff=lfs merge=lfs -text
+data/bg_curr_data/0m_b.npy filter=lfs diff=lfs merge=lfs -text

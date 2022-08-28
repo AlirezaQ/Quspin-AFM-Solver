@@ -1,0 +1,21 @@
+@ECHO OFF
+python	main.py	-1.0 x mag
+python	main.py	-0.9 x mag
+python	main.py	-0.8 x mag
+python	main.py	-0.7 x mag
+python	main.py	-0.6 x mag
+python	main.py	-0.5 x mag
+python	main.py	-0.4 x mag
+python	main.py	-0.3 x mag
+python	main.py	-0.2 x mag
+python	main.py	-0.1 x mag
+python	main.py	0.1	x mag
+python	main.py	0.2	x mag
+python	main.py	0.3	x mag
+python	main.py	0.4	x mag
+python	main.py	0.5	x mag
+python	main.py	0.6	x mag
+python	main.py	0.7	x mag
+python	main.py	0.8	x mag
+python	main.py	0.9	x mag
+python	main.py	1.0	x mag

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Aksnes Tønseth"
+  given-names: "Even"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Uthayamoorthy"
+  given-names: "Viroshaan"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Qaiumzadeh"
+  given-names: "Alireza"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Antiferromagnetic-spin-simulations"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-05-02
+url: "https://github.com/evenat684/Antiferromagnetic-spin-simulations"
