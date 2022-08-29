@@ -1,3 +1,5 @@
+# Note
+Most function in this code contains docstrings. So if you wonder what a function does type <code>print function_name. __ doc __ </code>
 # Anitferromagnetic-spin-simulations
 This simulation is about solving the LLG equation of the form: 
 
